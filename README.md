@@ -1,5 +1,4 @@
 # docker-whale
 
-Run me : `docker run -p80:80 ushamandya/whale-example`
-
-Build me: `docker build -t ushamandya/whale-example .`
+* Build me: `docker build -t yannick09/whale-example .`
+* Run me : `docker run -p8000:80 yannick09/whale-example`
